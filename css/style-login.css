@@ -1,0 +1,55 @@
+body {
+  background-color: #041342;
+}
+
+.h5 {
+  color: aliceblue;
+}
+
+.form-container {
+  max-width: 350px;
+  padding: 1rem;
+}
+
+.btn-custom {
+  border-radius: 15px;
+  border: 2px solid #2bc44c;
+  color: #2bc44c;
+  background-color: transparent;
+  padding: 10px 80px;
+  font-size: 16px;
+  transition: background-color 0.3s, color 0.3s; /* Adiciona a transição suave */
+}
+
+.btn-custom:hover {
+  background-color: #2bc44c; /* Cor de fundo verde */
+  color: #fff; /* Cor do texto branco */
+}
+
+.form-check {
+  color: aliceblue;
+}
+
+.link-custom {
+  color: #2bc44c;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.link-custom:hover {
+  text-decoration: underline;
+}
+
+.icon {
+  margin-right: 0.5rem;
+}
+
+.links-container {
+  margin-top: 50px;
+}
+
+.create-account {
+  margin-top: 20px;
+}
